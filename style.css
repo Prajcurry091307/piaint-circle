@@ -1,0 +1,26 @@
+body {
+    background-image : url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fnice-background-vector-16234713&psig=AOvVaw2_SzEPD2ciq-NIzhFFAnID&ust=1619545382421000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC4xeu6nPACFQAAAAAdAAAAABAD" );
+    background-position: center;
+        background-size: cover;
+      text-align:center;
+    }
+    #myCanvas {
+         margin: 100px; 
+         border-width:10px; 
+         background-color: white;
+         border-style:ridge;}
+    input
+    {
+    margin-bottom : 20px;
+    margin-left : 200px;
+    margin-right : 10px;
+    }
+    button{
+    margin-bottom : 20px;
+    margin-left : 200px;
+    margin-right : 10px;
+    }
+    div { 
+    color: white;
+    margin-bottom: 50px;
+}
